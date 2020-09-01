@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "gimme-pizza-angular"
+    }
+  },
+  "defaultProject": "gimme-pizza-angular",
+  "cli": {
+    "analytics": false
+  }
 }
